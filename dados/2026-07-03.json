@@ -1,0 +1,584 @@
+{
+  "data_edicao": "Sexta-feira, 3 de julho de 2026",
+  "data_geracao": "03/07/2026 · 05:00",
+  "janela": "19/jun/2026–2/jul/2026",
+  "periodo_recente": "19/jun/2026 a 2/jul/2026",
+  "temas": {
+    "cartoes": {
+      "resumo": "O mercado de cartões brasileiro apresenta expansão robusta no primeiro trimestre de 2026, com transações totalizando R$ 1,1 trilhão e crescimento de 8,3%. Tecnologias emergentes como Tap on Phone lideram inovação com crescimento de 114,6%, enquanto indicadores de saúde financeira dos consumidores melhoram, com 85% quitando faturas em dia.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Pagamentos com cartões crescem no 1° tri de 2026 e movimentam R$ 1,1 trilhão",
+          "fonte": "Cantarino Brasileiro",
+          "url": "https://cantarinobrasileiro.com.br/pagamentos-com-cartoes-crescem-no-1-tri-de-2026-e-movimentam-r-11-trilhao/",
+          "destaque": "Transações com cartões somaram R$ 1,1 trilhão no Q1 2026 com crescimento de 8,3%; Tap on Phone cresceu 114,6% e acumula 1.188,8% em dois anos",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "19/jun/2026",
+          "tambem_em": [
+            "pagamentos",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Surpreendente: 85% Quitam Fatura do Cartão em Dia no Brasil 2026",
+          "fonte": "Folha Financeira",
+          "url": "https://folhafinanceira.com.br/surpreendente-85-quitam-fatura-do-cartao-em-dia-no-brasil-2026/",
+          "destaque": "85% dos brasileiros quitam faturas de cartão em dia em 2026, evitando crédito rotativo; cartões de crédito movimentaram R$ 810,2 bilhões no Q1, crescimento de 12,8%",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Visa transforma celular em maquininha para pequenos negócios",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/visa-celular-maquininha-pequenos-negocios",
+          "destaque": "Visa Accept permite aceitar cartão por aproximação via app Android com NFC sem leitor físico; Tap to Phone já compete com maquininha tradicional entre adquirentes",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "pagamentos",
+            "fintechs"
+          ]
+        }
+      ]
+    },
+    "pagamentos": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "marketplace": {
+      "resumo": "Marketplaces brasileiros experimentam transformação tecnológica com integrações inovadoras enquanto enfrentam pressão regulatória e mudanças na dinâmica competitiva. TikTok Shop consolida posição de terceiro maior marketplace do país com crescimento exponencial, enquanto Shopee avança em parcerias estratégicas com IA.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "TikTok Shop Brasil completa 1 ano: de US$ 1 milhão a US$ 46 milhões em GMV mensal",
+          "fonte": "Shakers Agência",
+          "url": "https://shakersagencia.com.br/blogs/news/tiktok-shop-brasil-1-ano-resultados",
+          "destaque": "GMV mensal saltou de US$ 1 milhão para US$ 46 milhões (crescimento de 26 vezes); TikTok Shop já ocupa terceira posição entre maiores marketplaces do Brasil",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "27/jun/2026",
+          "tambem_em": [
+            "ia",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Shopee chega ao ChatGPT em parceria da Sea com a OpenAI",
+          "fonte": "Meio & Mensagem",
+          "url": "https://www.meioemensagem.com.br/marketing/portfolio-da-shopee-fica-disponivel-no-chatgpt",
+          "destaque": "Shopee se torna primeira plataforma de e-commerce disponível no ChatGPT em Sudeste Asiático e América Latina; usuários de 8 países incluindo Brasil têm acesso",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "ia",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "PL 484/2026 – Regulação das relações comerciais em plataformas de comércio eletrônico e proteção aos vendedores parceiros",
+          "fonte": "Assespro Paraná",
+          "url": "https://assespropr.org.br/pl-484-2026-regulacao-das-relacoes-comerciais-em-plataformas-de-comercio-eletronico-e-protecao-aos-vendedores-parceiros-cics-apresentado-substitutivo-prazo-de-emendas/",
+          "destaque": "Deputado Professor Alcides apresenta substitutivo ao PL 484/2026 suprimindo integralmente vedações a práticas abusivas em marketplaces; prazo de emendas até 7 de julho",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "O fim dos canais: como a nova estratégia da Amazon expõe o verdadeiro futuro da experiência omnichannel",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://www.ecommercebrasil.com.br/artigos/o-fim-dos-canais-como-a-nova-estrategia-da-amazon-expoe-o-verdadeiro-futuro-da-experiencia-omnichannel",
+          "destaque": "Plataformas como Mercado Livre, Amazon, Magalu e Shopee funcionam como verdadeiros motores de descoberta de produtos; jornada de compra já começa dentro desses ecossistemas",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "19/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "O dilema do marketplace e a necessidade do canal próprio",
+          "fonte": "Central do Varejo",
+          "url": "https://centraldovarejo.com.br/o-dilema-do-marketplace-e-a-necessidade-do-canal-proprio/",
+          "destaque": "Mercado Livre lidera com 34,3% de tráfego, Shopee com 24,8% e Amazon com 16,8%; varejo digital brasileiro deve atingir R$ 259 bilhões em 2026",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "TikTok Shop cresce no Brasil, com criadores saltando 46 vezes em 2026",
+          "fonte": "Eletrolar Show",
+          "url": "https://eletrolarshow.com.br/tiktok-shop-cresce-brasil-criadores-46-vezes-2026/",
+          "destaque": "Número de criadores do TikTok Shop saltou 46 vezes em 2026; plataforma tem 134 milhões de usuários no Brasil com foco em 'cultura criar comércio'",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "29/jun/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        }
+      ]
+    },
+    "varejo": {
+      "resumo": "O varejo brasileiro enfrenta momento desafiador com queda de 1,5% em abril e inadimplência recorde de 75 milhões de consumidores, enquanto eventos esportivos redefinem padrões de consumo entre físico e digital. A adoção de tecnologia e IA emerge como estratégia crítica para eficiência operacional em contexto de compressão de renda.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Comércio tem pior resultado em quase quatro anos e recua 1,5% em abril, aponta IBGE",
+          "fonte": "Frances News",
+          "url": "https://francesnews.com.br/post/2026/06/26/27798-comercio-tem-pior-resultado-em-quase-quatro-anos-e-recua-15-em-abril-aponta-ibge",
+          "destaque": "Queda de 1,5% em abril interrompe sequência de três meses de alta, pior desempenho desde junho de 2022",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "26/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Inadimplência bate novo recorde e atinge 75,06 milhões de consumidores em maio, aponta CNDL e SPC Brasil",
+          "fonte": "CNDL / Varejo S.A",
+          "url": "https://cndl.org.br/varejosa/inadimplencia-bate-novo-recorde-e-atinge-7506-milhoes-de-consumidores-em-maio-aponta-cndl-e-spc-brasil/",
+          "destaque": "75,06 milhões de brasileiros inadimplentes (44,80% da população adulta), com dívida média de R$ 5.145,04",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "17/jun/2026",
+          "tambem_em": [
+            "cartoes",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Estreia do Brasil na Copa derruba varejo físico e impulsiona online",
+          "fonte": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/economia/2026/06/7442375-estreia-do-brasil-na-copa-derruba-varejo-fisico-e-impulsiona-online.html",
+          "destaque": "Varejo físico recua 3,7% durante jogo do Brasil, enquanto e-commerce avança 15,5% e supermercados crescem 11,3%",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "19/jun/2026",
+          "tambem_em": [
+            "marketplace"
+          ]
+        },
+        {
+          "titulo": "ICVA: jogo da Seleção mais cedo e em dia útil favorece bares",
+          "fonte": "Cielo (ICVA)",
+          "url": "https://blog.cielo.com.br/indice-icva/vendas-jogo-3-selecao-na-copa-2026/",
+          "destaque": "Varejo total recua 5,6% em quarta-feira de jogo, mas bares, discotecas e casas noturnas crescem 34,1%",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "29/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "O que o Varejo Tech Day 2026 mostrou sobre o futuro do varejo",
+          "fonte": "Zanthus",
+          "url": "https://zanthus.com.br/o-que-o-varejo-tech-day-2026-mostrou-sobre-o-futuro-do-varejo/",
+          "destaque": "Inteligência Artificial em aplicações práticas para apoiar decisões, análise de dados e melhoria de processos",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        },
+        {
+          "titulo": "O dado que o Varejo Tech Day 2026 mostrou sobre o futuro do varejo: longevidade de franquias",
+          "fonte": "CNDL / Varejo S.A",
+          "url": "https://cndl.org.br/varejosa/o-dado-que-o-setor-de-franchising-evita-discutir-quantas-franquias-realmente-sobrevivem/",
+          "destaque": "Índice significativo de fechamento de franquias nos primeiros anos de operação, apesar de expansão do setor",
+          "categoria": "Competição",
+          "impacto": "médio",
+          "data_pub": "28/jun/2026",
+          "tambem_em": []
+        }
+      ]
+    },
+    "tag": {
+      "resumo": "O Brasil avança na expansão do pedágio eletrônico free flow, com 156 pórticos previstos até o final de 2026 e implementação nas rodovias Anchieta-Imigrantes a partir de julho. Motoristas sem tag enfrentam custos adicionais, multas e burocratia, impulsionando a adoção de soluções como a tag Zul+ da Estapar.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Na Bienal das Rodovias, ANTT projeta expansão do pedágio eletrônico no país",
+          "fonte": "ANTT (Gov.br)",
+          "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/na-bienal-das-rodovias-antt-projeta-expansao-do-pedagio-eletronico-no-pais",
+          "destaque": "Novos projetos em estruturação já nascem com operação integral por pedágio eletrônico: Rota 2 de Julho (BA), Rota Portuária do Sul (RS) e novos lotes de Santa Catarina",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "19/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Free flow: porque motoristas sem tag gastam mais tempo e dinheiro — Anchieta e Imigrantes terão pedágio eletrônico Free Flow a partir de julho",
+          "fonte": "TV São Bernardo",
+          "url": "https://tvsaobernardo.com/free-flow-porque-motoristas-sem-tag-gastam-mais-tempo-e-dinheiro/",
+          "destaque": "Sistema Anchieta-Imigrantes receberá free flow a partir de julho; motoristas sem tag perdem descontos, enfrentam burocracia e riscos de multas",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "pagamentos",
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Free flow: porque motoristas sem tag gastam mais tempo e dinheiro",
+          "fonte": "Click Guarulhos",
+          "url": "https://www.clickguarulhos.com.br/2026/06/28/free-flow-porque-motoristas-sem-tag-gastam-mais-tempo-e-dinheiro/",
+          "destaque": "Sistema free flow já está em 15 concessões com 77 pórticos; deve atingir 156 pontos até final de 2026; mais de 400 sites fraudulentos detectados; Sem Parar registra 5,5 milhões de passagens mensais",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "28/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Qual a melhor tag de pedágio no Brasil?",
+          "fonte": "Blog Zul+ (Estapar)",
+          "url": "https://www.zuldigital.com.br/blog/melhor-tag-pedagio/",
+          "destaque": "Tag Zul+ da Estapar aceita em todas as praças do país, inclusive free flow, sem mensalidade; 9 milhões de usuários; integra Zona Azul, IPVA, licenciamento e multas em até 12 vezes",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "29/jun/2026",
+          "tambem_em": [
+            "fintechs",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Concessionária inicia trabalhos de manutenção asfáltica, sinalização e segurança viária em 734 km de malha rodoviária",
+          "fonte": "ANTT (Gov.br)",
+          "url": "https://www.gov.br/antt/pt-br/free-flow",
+          "destaque": "Início de manutenção em 734 km; Termos Aditivos contratuais previstos para Nova Rota do Oeste, PR Vias e Rota Verde Litoral Pioneiro",
+          "categoria": "Regulatório",
+          "impacto": "médio",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        }
+      ]
+    },
+    "bancos": {
+      "resumo": "O Banco Central intensifica a supervisão do setor financeiro com liquidações de instituições e novas regras de alavancagem, enquanto análises indicam pressões concentradas na inadimplência ao invés de crise sistêmica. O governo lança programa de refinanciamento para reduzir riscos de inadimplência crescente entre consumidores.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "BC amplia onda de liquidações e chega a 17 instituições",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/regulamentacao/bc-liquida-16-instituicoes-entre-2025-e-2026/",
+          "destaque": "13 liquidações apenas em 2026, incluindo o Master, em meio a aumento de regulação e casos de fraudes",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Onde está o 'estresse' da inadimplência? Morgan vê pressão mais local e não sistêmica",
+          "fonte": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/onde-esta-o-estresse-da-inadimplencia-morgan-ve-pressao-mais-local-e-nao-sistemica/",
+          "destaque": "Morgan Stanley avalia que deterioração é setorial e concentrada em produtos específicos, com destaque para agronegócio, não configurando estresse amplo",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "30/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Desenrola 2.0: quem poderá trocar empréstimos caros por crédito mais barato",
+          "fonte": "InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/desenrola-2-0-quem-podera-trocar-emprestimos-caros-por-credito-mais-barato/",
+          "destaque": "Nova modalidade substitui empréstimos em pagamento por operações com juros menores, visando preservar capacidade de consumo e reduzir crescimento da inadimplência",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "29/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "86% dos inadimplentes relatam danos à saúde física decorrentes do estresse financeiro",
+          "fonte": "CNDL / Varejo S.A.",
+          "url": "https://cndl.org.br/varejosa/86-dos-inadimplentes-relatam-danos-a-saude-fisica-decorrentes-do-estresse-financeiro-revela-pesquisa-cndl-spc-brasil/",
+          "destaque": "86% dos consumidores com contas em atraso há mais de três meses sofreram danos à saúde física, consolidando inadimplência como crise de saúde e produtividade",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "19/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Instrução Normativa BCB nº 749 — Banco Central atualiza regras de alavancagem para bancos S1 e S2",
+          "fonte": "Banco Central do Brasil",
+          "url": "https://legismap.com.br/leis-e-normas/instrucao-normativa-bcb-n-749-de-19-06-2026",
+          "destaque": "Atualização do requerimento mínimo de alavancagem para instituições S1 e S2, com vigência a partir de 1º de julho de 2026",
+          "categoria": "Regulatório",
+          "impacto": "médio",
+          "data_pub": "19/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Fitch mantém nota do Brasil em 'BB' e alerta para incerteza fiscal",
+          "fonte": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fitch-mantem-nota-do-brasil-em-bb-e-alerta-para-incerteza-fiscal/",
+          "destaque": "Fitch reafirma nota soberana em BB com perspectiva estável, mas destaca deterioração das contas públicas como principal entrave para melhora da avaliação",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "19/jun/2026",
+          "tambem_em": []
+        }
+      ]
+    },
+    "fintechs": {
+      "resumo": "Banco Central reconhece riscos da IA no sistema financeiro enquanto fintechs enfrentam desafios regulatórios e judiciais. Duplicata digital avança com autorização do BC para fase de produção assistida.",
+      "termometro": "neutro",
+      "noticias": [
+        {
+          "titulo": "Fintechs à frente na era da IA",
+          "fonte": "Exame",
+          "url": "https://exame.com/colunistas/opiniao/fintechs-a-frente-na-era-da-ia/",
+          "destaque": "BC reconhece explicitamente que avanços em IA podem criar novos riscos para estabilidade financeira e afetar infraestruturas críticas do Sistema Financeiro Nacional",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "21/jun/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        },
+        {
+          "titulo": "Fundo americano entra com ação coletiva contra o PicPay alegando omissão de informações no IPO",
+          "fonte": "Valor Econômico",
+          "url": "https://conteudos.xpi.com.br/renda-fixa/relatorios/fique-de-olho-na-renda-fixa-junho-2026/",
+          "destaque": "PicPay acusada de omitir informações sobre deficiências em modelos de crédito no prospecto do IPO",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "30/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Duplicata digital terá largada no início de julho",
+          "fonte": "Valor Econômico",
+          "url": "https://conteudos.xpi.com.br/renda-fixa/relatorios/fique-de-olho-na-renda-fixa-junho-2026/",
+          "destaque": "BC autorizou três registradoras a iniciarem fase de produção assistida para duplicata digital em julho",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        }
+      ]
+    },
+    "loyalty": {
+      "resumo": "Programas de fidelização intensificam campanhas promocionais com bônus em transferências de pontos e expansão de parcerias no Brasil. Varejistas físicos buscam estratégias de loyalty para converter transações anônimas em relacionamentos duráveis com clientes.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Revolut liga RevPoints a Latam Pass e Smiles no Brasil",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/revolut-revpoints-latam-pass-smiles-brasil",
+          "destaque": "Revolut amplia parcerias de fidelidade com transferências para LATAM Pass e Smiles, e lança vitrine de recompensas com mais de 25 parceiros como Nike, Airbnb e Uber",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "fintechs",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Azul Fidelidade oferece até 120% de bônus na transferência de parceiros",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontostravoar.com/ultimas-horas-azul-fidelidade-oferece-ate-120-porcento-bonus-transferencia-parceiros/",
+          "destaque": "Azul Fidelidade oferece até 120% de bônus em transferência de pontos de parceiros como Livelo e Esfera, válido até 26 de junho, com pontos bônus com validade de 6 meses",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "cartoes"
+          ]
+        },
+        {
+          "titulo": "Livelo celebra 10 anos com '10 horas de oferta' e oferece até 20 pontos por real",
+          "fonte": "Alta Renda Blog",
+          "url": "https://altarendablog.com.br/2026/06/26/livelo-celebra-10-anos-com-10-horas-de-oferta-e-oferece-ate-20-pontos-por-real/",
+          "destaque": "Livelo lança campanha de aniversário com acúmulo de até 20 pontos por real em marcas parceiras e 40% de desconto na solução Pontos Viram Dinheiro",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "25/jun/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos Livelo em campanha de um dia",
+          "fonte": "LATAM Pass",
+          "url": "https://latampass.latam.com/pt_br/promocao/livelo-milhas-extras",
+          "destaque": "LATAM Pass oferece 25% de bônus em transferência de pontos Livelo no dia 30 de junho, com limite de 100.000 milhas por CPF e validade de 36 meses",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Azul Fidelidade oferece até 65% de bônus ao transformar cashback do Méliuz em pontos",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontospravoar.com/azul-fidelidade-oferece-ate-65-porcento-bonus-transformar-cashback-meliuz-pontos/",
+          "destaque": "Azul Fidelidade em parceria com Méliuz oferece até 65% de bônus na conversão de cashback em pontos, com transferências válidas até 21 de junho de 2026",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "21/jun/2026",
+          "tambem_em": [
+            "cartoes",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Loyalty no varejo físico: estratégias para conectar consumidores offline",
+          "fonte": "Bonifiq",
+          "url": "https://www.bonifiq.com.br/loyalty-varejo-fisico-estrategias-consumidores-offline/",
+          "destaque": "Estratégias de loyalty no varejo físico transformam transações anônimas em relacionamentos com nome, histórico e potencial de longo prazo para varejistas",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        }
+      ]
+    },
+    "ia": {
+      "resumo": "Bancos e fintechs do Brasil enfrentam desafios crescentes com IA agêntica usada em fraudes, enquanto avançam na implementação de agentes autônomos para pagamentos e atendimento ao cliente. O país corre contra o tempo para estabelecer regulamentações claras sobre responsabilidade e segurança em transações automatizadas.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Bancos do Brasil veem IA agêntica como nova arma do crime",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/bancos-brasil-ia-agentica-fraude-biocatch",
+          "destaque": "83% dos executivos consideram extremamente desafiador separar atividades legítimas de ações maliciosas com IA; 63% identificaram golpes com deepfakes nos últimos 12 meses",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Setor financeiro deixa regras fixas para antecipar fraudes com IA",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/fraudes/fraudes-ganham-velocidade-com-ia-instituicoes-financeiras-acompanham/",
+          "destaque": "Entre julho de 2024 e junho de 2025, golpes com Pix ou boletos fizeram 24 milhões de vítimas com prejuízo de quase R$ 29 bilhões; agentes automatizados realizam em escala o que antes exigia equipes",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Empresas que usam agentes de IA no atendimento ao cliente são as primeiras responsáveis por erros e fraudes, alerta especialista",
+          "fonte": "IT Forum",
+          "url": "https://itforum.com.br/noticias/agentes-de-ia-atendimento-erros-fraudes/",
+          "destaque": "A fronteira entre autonomia das máquinas e responsabilidade humana tornou-se campo minado jurídico; Brasil corre contra o tempo com arcabouço regulatório em construção",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Como a IA está tornando bancos e fintechs mais preditivos e o que isso muda para o consumidor",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/ia/como-a-ia-esta-tornando-bancos-e-fintechs-mais-preditivos-e-o-que-isso-muda-para-o-consumidor",
+          "destaque": "60% das organizações utilizam dados compartilhados para gerar insights em tempo real com IA; 57% usam informações para fortalecer segurança e prevenção a fraudes",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Comércio agêntico: como a IA está redefinindo pagamentos e experiências de compra",
+          "fonte": "MBA USP/Esalq",
+          "url": "https://blog.mbauspesalq.com/inteligencia-artificial-pagamentos-digitais-visa-openai/",
+          "destaque": "Visa e Banco do Brasil realizaram primeira transação por agente de IA em solo brasileiro em março de 2026, com cartão habilitado para pagamento via Visa Intelligent Commerce",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "cartoes",
+            "pagamentos",
+            "socios"
+          ]
+        }
+      ]
+    },
+    "socios": {
+      "resumo": "O varejo brasileiro intensifica parcerias estratégicas para fortalecer marca e experiência do consumidor, com destaque para renovações de contratos e integrações tecnológicas. Principais movimentos envolvem Casas Bahia no futebol, Carrefour em ativações presenciais e Assaí com inteligência artificial no marketplace.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Casas Bahia renova naming rights do Paulistão até 2028",
+          "fonte": "Exame",
+          "url": "https://exame.com/negocios/casas-bahia-naming-rights-paulistao/",
+          "destaque": "Casas Bahia renovou por mais dois anos os naming rights do Paulistão, consolidando estratégia de transformar visibilidade em relacionamento e negócios",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "25/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Feira Outlet das Malhas aquece o Carrefour Anchieta com moda de inverno",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/03/03/2026/noticias-varejo/feira-outlet-das-malhas-aquece-o-carrefour-anchieta-com-moda-de-inverno/",
+          "destaque": "Carrefour Anchieta recebe Feira Outlet das Malhas até 4 de julho, com parceria consolidada em diferentes unidades da rede",
+          "categoria": "Mercado",
+          "impacto": "baixo",
+          "data_pub": "26/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "A IA está mudando o supermercado sem trocar um único caixa — Assaí e parceria com Mercado Livre em destaque",
+          "fonte": "Consumidor Moderno",
+          "url": "https://consumidormoderno.com.br/ia-mudando-supermercado-assai/",
+          "destaque": "Assaí fecha parceria com Mercado Livre incorporando Inteligência Artificial para integrar marketplace e construir jornada mais eficiente em canais digitais",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "29/jun/2026",
+          "tambem_em": [
+            "marketplace",
+            "ia"
+          ]
+        }
+      ]
+    }
+  }
+}
