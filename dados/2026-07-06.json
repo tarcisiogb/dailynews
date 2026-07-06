@@ -1,0 +1,570 @@
+{
+  "data_edicao": "Segunda-feira, 6 de julho de 2026",
+  "data_geracao": "06/07/2026 · 05:00",
+  "janela": "22/jun/2026–5/jul/2026",
+  "periodo_recente": "22/jun/2026 a 5/jul/2026",
+  "temas": {
+    "cartoes": {
+      "resumo": "O mercado de cartões brasileiro apresenta forte dinamismo com crescimento de 8,3% no primeiro trimestre de 2026, totalizando R$ 1,1 trilhão em transações. Emergem novas tecnologias como pagamento por aproximação e soluções mobile, enquanto indicadores de saúde financeira melhoram com 85% dos brasileiros quitando faturas em dia.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Pagamentos com cartões crescem no 1° tri de 2026 e movimentam R$ 1,1 trilhão",
+          "fonte": "Cantarino Brasileiro",
+          "url": "https://cantarinobrasileiro.com.br/pagamentos-com-cartoes-crescem-no-1-tri-de-2026-e-movimentam-r-11-trilhao/",
+          "destaque": "Transações com cartões somaram R$ 1,1 trilhão no Q1 2026, crescimento de 8,3%, com pagamentos por aproximação (NFC) representando 74,8% das transações presenciais",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Surpreendente: 85% Quitam Fatura do Cartão em Dia no Brasil 2026",
+          "fonte": "Folha Financeira",
+          "url": "https://folhafinanceira.com.br/surpreendente-85-quitam-fatura-do-cartao-em-dia-no-brasil-2026/",
+          "destaque": "85% dos brasileiros quitam faturas de cartão em dia no primeiro trimestre de 2026, com crédito rotativo representando apenas 2,7% das dívidas pessoais",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Visa transforma celular em maquininha para pequenos negócios",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/visa-celular-maquininha-pequenos-negocios",
+          "destaque": "Visa Accept permite aceitar cartões por aproximação via app em smartphone Android sem leitor físico, consolidando Tap to Phone como concorrente direto da maquininha tradicional",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "pagamentos",
+            "fintechs"
+          ]
+        }
+      ]
+    },
+    "pagamentos": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "marketplace": {
+      "resumo": "Mercado Livre consolida liderança em buscas com 86 pontos, enquanto Shopee avança com parcerias estratégicas em IA (ChatGPT) e redes sociais (Instagram Shopping). O setor amadurece operacionalmente e projeta faturamento recorde de R$ 259 bilhões em 2026.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Buscas por Mercado Livre superam Shopee e Amazon no 1º semestre",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://www.ecommercebrasil.com.br/noticias/buscas-por-mercado-livre-superam-shopee-e-amazon-no-1o-semestre",
+          "destaque": "Mercado Livre registrou 86 pontos de interesse de busca contra 65 da Shopee e 59 da Amazon entre brasileiros",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "03/jul/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Shopee chega ao ChatGPT",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://www.ecommercebrasil.com.br/noticias/shopee-chega-ao-chatgpt",
+          "destaque": "Shopee é primeira plataforma de e-commerce integrada ao ChatGPT no Sudeste Asiático, Taiwan e Brasil mediante parceria OpenAI e Sea Limited",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "ia",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Mercado Livre amplia parceria e anuncia Anitta como nova embaixadora",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://www.ecommercebrasil.com.br/noticias/mercado-livre-amplia-parceria-e-anuncia-anitta-como-nova-embaixadora",
+          "destaque": "Anitta passa a representar Mercado Livre e Mercado Pago, ampliando participação no ecossistema da empresa",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "25/jun/2026",
+          "tambem_em": [
+            "socios",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Shopee fecha acordo com Meta envolvendo Instagram Shopping",
+          "fonte": "E-Commerce Brasil",
+          "url": "https://www.ecommercebrasil.com.br/noticias/shopee-fecha-acordo-com-meta-envolvendo-instagram-shopping",
+          "destaque": "Shopee é primeira parceira de afiliados da Meta no Instagram fora dos EUA, integrando descoberta de produtos em Instagram à compra na plataforma",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "ARTIGO: Marketplace amadurece no Brasil e transforma gestão em vantagem competitiva",
+          "fonte": "Gazeta da Semana",
+          "url": "https://gazetadasemana.com.br/noticia/288444/artigo-marketplace-amadurece-no-brasil-e-transforma-gestao-em-vantagem-competitiva",
+          "destaque": "Marketplace evoluiu de vitrine digital para infraestrutura de negócios com eficiência operacional, integração de processos e gestão em tempo real",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "O dilema do marketplace e a necessidade do canal próprio",
+          "fonte": "Central do Varejo",
+          "url": "https://centraldovarejo.com.br/o-dilema-do-marketplace-e-a-necessidade-do-canal-proprio/",
+          "destaque": "Mercado Livre lidera com 34,3% de tráfego; varejo digital brasileiro deve atingir R$ 259 bilhões em 2026",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        }
+      ]
+    },
+    "varejo": {
+      "resumo": "O varejo brasileiro vivencia um período de dualidade: a Copa do Mundo 2026 impulsiona o consumo com movimento estimado em R$ 61 bilhões e fluxo em lojas até 69% maior, mas crise de endividamento e recuperações judiciais afetam o setor. O consumidor se tornou mais criterioso e endividado, enquanto empresas como Grupo Toky enfrentam dificuldades financeiras severas.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Caso Tok&Stok: por que o varejo brasileiro enfrenta nova escalada de crises?",
+          "fonte": "Diário do Comércio",
+          "url": "https://dcomercio.com.br/publicacao/s/caso-tok-stok-por-que-o-varejo-brasileiro-enfrenta-nova-escalada-de-crises",
+          "destaque": "Grupo Toky com dívidas superiores a R$ 1,1 bilhão é o mais recente caso de recuperação judicial em série que inclui mais de 5.931 empresas no país; especialistas apontam gestão ineficiente, consumo enfraquecido, juros elevados e restrição de crédito como causas",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "25/jun/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Copa deve movimentar R$ 61 bilhões, mas acende alerta para dívidas",
+          "fonte": "Business Moment",
+          "url": "https://businessmoment.com.br/copa-do-mundo-2026-consumo-spc-brasil/",
+          "destaque": "Copa 2026 deve movimentar R$ 61 bilhões na economia, mas 61% dos consumidores que pretendem gastar já possuem contas em atraso, com 70% negativados em órgãos de proteção ao crédito",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "O consumidor não sumiu, ficou mais criterioso: o que muda no varejo em 2026",
+          "fonte": "Grupo Bittencourt",
+          "url": "https://bittencourtconsultoria.com.br/artigos/consumidor-mais-criterioso-varejo-2026/",
+          "destaque": "79,5% das famílias iniciaram o ano endividadas com quase 30% com renda comprometida; consumidor exige mais de cada decisão de compra",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Classificação da Seleção deve impulsionar nova onda de consumo",
+          "fonte": "CNDL / Varejo S.A.",
+          "url": "https://cndl.org.br/varejosa/classificacao-da-selecao-deve-impulsionar-nova-onda-de-consumo/",
+          "destaque": "Classificação da Seleção para Copa 2026 abre nova onda de consumo em supermercados, bares, restaurantes, delivery, lojas de bairro e varejo esportivo",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "01/jul/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Copa do Mundo 2026 impulsiona varejo alimentar: fluxo em lojas sobe até 69% antes dos jogos",
+          "fonte": "Seafood Brasil",
+          "url": "https://www.seafoodbrasil.com.br/copa-2026-impulsiona-varejo-alimentar-e-consumo-no-brasil",
+          "destaque": "Levantamento aponta aumento de até 69% no fluxo de lojas antes dos jogos da Copa 2026 e crescimento de tendência de saudabilidade nos produtos procurados",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "23/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Entrega XP: As principais notícias que movem o setor do Varejo | Junho/26",
+          "fonte": "XP Investimentos",
+          "url": "https://conteudos.xpi.com.br/acoes/relatorios/entrega-xp-as-principais-noticias-que-movem-o-setor-do-varejo-junho-26/",
+          "destaque": "Grupo Toky com prejuízo líquido consolidado de R$ 75,5 milhões no 1º trimestre (piora de 71,9% ao período anterior) em recuperação judicial; Riachuelo muda conceito de loja resgatando origem nordestina",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "29/jun/2026",
+          "tambem_em": []
+        }
+      ]
+    },
+    "tag": {
+      "resumo": "O sistema de pedágio free flow expande significativamente no Brasil, com 77 pórticos já em operação e previsão de atingir 156 até o final de 2026. A implementação nas rodovias Anchieta-Imigrantes a partir de 1º de julho marca um marco importante, com tags eletrônicas oferecendo descontos de até 96% conforme regulamentação da ANTT.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Free flow: porque motoristas sem tag gastam mais tempo e dinheiro",
+          "fonte": "TV São Bernardo",
+          "url": "https://tvsaobernardo.com/free-flow-porque-motoristas-sem-tag-gastam-mais-tempo-e-dinheiro/",
+          "destaque": "Sistema de pedágio free flow já presente em 15 concessões e 77 pórticos, com previsão de atingir 156 pontos até final de 2026; Sem Parar registra 5,5 milhões de passagens mensais",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "pagamentos",
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Pedágios da Anchieta-Imigrantes terão novos valores a partir de 1º de julho; veja o que muda",
+          "fonte": "SP Agora",
+          "url": "https://www.spagora.com.br/transito/rodovias/pedagios-anchieta-imigrantes-reajuste-free-flow-1-julho/",
+          "destaque": "Substituição das praças de pedágio tradicionais pelo modelo Free Flow a partir de 1º de julho, com cobrança automatizada em pórticos sem necessidade de parar",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "25/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Qual a melhor tag de pedágio no Brasil?",
+          "fonte": "Blog Zul+",
+          "url": "https://www.zuldigital.com.br/blog/melhor-tag-pedagio/",
+          "destaque": "Tag Zul+ funciona em todas as praças do país incluindo free flow, com descontos de até 96% em pedágio conforme regulamentação ANTT",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Free Flow — Agência Nacional de Transportes Terrestres (ANTT) — Expansão e novos termos aditivos previstos",
+          "fonte": "ANTT (gov.br)",
+          "url": "https://www.gov.br/antt/pt-br/free-flow",
+          "destaque": "Novos Termos Aditivos previstos para implantação de Free Flow em Nova Rota do Oeste, PR Vias e Rota Verde Litoral Pioneiro, ampliando modelo nas rodovias federais concedidas",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "03/jul/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        }
+      ]
+    },
+    "bancos": {
+      "resumo": "Inadimplência em crédito pessoal e consignado pressiona rentabilidade dos bancos brasileiros, com deterioração concentrada em produtos específicos e não sistêmica. Governo implementa medidas de desenrola que reduzem retornos do crédito consignado, enquanto modernização do sistema avança com duplicata digital.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Inadimplência em crédito sem garantia pressiona ações de bancos",
+          "fonte": "O Especialista – Banco Safra",
+          "url": "https://oespecialista.safra.com.br/inadimplencia-bancos-credito-maio-2026/",
+          "destaque": "Inadimplência acima de 90 dias atingiu 4,7% em maio, avanço de 10 pontos-base em relação a abril e 100 pontos-base frente a maio de 2025, com deterioração em crédito pessoal, cartões e consignado privado",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "cartoes",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Onde está o 'estresse' da inadimplência? Morgan Stanley vê pressão mais local e não sistêmica",
+          "fonte": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/onde-esta-o-estresse-da-inadimplencia-morgan-ve-pressao-mais-local-e-nao-sistemica/",
+          "destaque": "Morgan Stanley aponta que deterioração é setorial e concentrada em produtos específicos, com destaque para agronegócio, não configurando estresse amplo e sistêmico",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "29/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Desenrola Adimplentes: qual o impacto para os bancos brasileiros?",
+          "fonte": "FEEB-SC",
+          "url": "https://feebsc.org.br/desenrola-adimplentes-qual-o-impacto-para-os-bancos-brasileiros/",
+          "destaque": "Crédito consignado privado terá teto de juros de 1,99% ao mês com rentabilidade estimada de 18%, contra 40% anterior, reduzindo retornos e aumentando concorrência entre bancos",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "29/jun/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Duplicata digital terá largada no início de julho; BC autoriza registradoras para fase de produção assistida",
+          "fonte": "XP Investimentos",
+          "url": "https://conteudos.xpi.com.br/renda-fixa/relatorios/fique-de-olho-na-renda-fixa-junho-2026/",
+          "destaque": "Banco Central autorizou três registradoras para fase de produção assistida de duplicata digital, marcando avanço na modernização do sistema de crédito comercial",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Consignado privado recua 22,8% nas concessões em maio e BC aponta desaceleração do crédito",
+          "fonte": "O Especialista – Banco Safra",
+          "url": "https://oespecialista.safra.com.br/inadimplencia-bancos-credito-maio-2026/",
+          "destaque": "Concessões de crédito consignado privado recuaram 22,8% em maio frente a abril, e consignado vinculado ao INSS caiu 25,4%, após período de crescimento acelerado",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "fintechs"
+          ]
+        }
+      ]
+    },
+    "fintechs": {
+      "resumo": "Banco Central revisa monitoramento do Open Finance buscando melhorar performance das instituições participantes. Reforma da SEC nos EUA facilita acesso de fintechs brasileiras ao mercado de capitais, com múltiplas candidatas potenciais para IPO.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Reforma da SEC facilita entrada de fintechs brasileiras na bolsa",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/reforma-da-sec-facilita-entrada-de-fintechs-brasileiras-na-bolsa/",
+          "destaque": "Maior reforma das regras de abertura de capital em mais de duas décadas; Creditas, C6 Bank, Neon, CloudWalk, QI Tech e Ebanx aparecem como possíveis candidatas a futuro IPO",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Banco Central revisa aspectos de monitoramento do Open Finance",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/regulamentacao/banco-central-revisa-aspectos-de-monitoramento-do-open-finance/",
+          "destaque": "BC revisa monitoramento do Open Finance com foco em garantir boa performance das instituições participantes; novidades esperadas nos próximos meses",
+          "categoria": "Regulatório",
+          "impacto": "médio",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        }
+      ]
+    },
+    "loyalty": {
+      "resumo": "O mercado de fidelização brasileiro apresenta forte dinamismo com lançamentos de programas cross-brand como o Nosso Clube do Carrefour e promoções agressivas em plataformas de pontos aéreos. Estratégias tanto digitais quanto analógicas, incluindo métodos tradicionais como selinhos, continuam relevantes para conectar consumidores offline e criar relacionamentos duradouros.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Carrefour lança 'Nosso Clube', programa de fidelidade com cashback cruzado entre Carrefour e Atacadão",
+          "fonte": "Exame",
+          "url": "https://exame.com/negocios/o-plano-do-carrefour-para-fazer-o-cliente-do-atacadao-comprar-no-hipermercado-e-vice-versa/",
+          "destaque": "Programa de fidelidade com cashback válido de forma cruzada entre Carrefour e Atacadão, lançado em 1º de julho na Paraíba e Pernambuco",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "varejo",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Azul Fidelidade e Livelo oferecem até 115% de bônus na transferência de pontos",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontospravoar.com/azul-fidelidade-livelo-oferecem-ate-115-porcento-bonus-transferencias/",
+          "destaque": "Azul Fidelidade oferecendo até 115% de bônus na transferência de pontos Livelo, válido até 5 de julho de 2026",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Loyalty no varejo físico: estratégias para conectar consumidores offline",
+          "fonte": "Bonifiq",
+          "url": "https://www.bonifiq.com.br/loyalty-varejo-fisico-estrategias-consumidores-offline/",
+          "destaque": "Transformação de transações anônimas em relacionamentos com histórico e potencial de longo prazo através de programas de loyalty no varejo físico",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "30/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "O valor dos selinhos no varejo mesmo com o avanço do digital",
+          "fonte": "Portal ClienteSA",
+          "url": "https://portal.clientesa.com.br/o-valor-dos-selinhos-no-varejo-mesmo-com-o-avanco-do-digital/",
+          "destaque": "Métodos tradicionais de fidelização como selinhos continuam relevantes e conquistando espaço no varejo brasileiro apesar da era digital",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "26/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Livelo anuncia oferta especial para transferência de pontos para Azul Fidelidade e LATAM Pass no mês de aniversário",
+          "fonte": "Mercado & Eventos",
+          "url": "https://www.mercadoeeventos.com.br/noticias/aviacao/livelo-anuncia-oferta-especial-para-transferencia-de-pontos-para-azul-fidelidade-e-latam-pass/",
+          "destaque": "25% de bonificação na transferência para LATAM Pass até 22/06 e bônus especial de 1.000 pontos para primeira transferência",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        }
+      ]
+    },
+    "ia": {
+      "resumo": "O Brasil avança na adoção de IA em finanças e software com crescimento de 5,3% no setor de TI, mas bancos enfrentam desafios críticos de segurança com IA agêntica emergindo como principal vetor de fraudes e vulnerabilidades. Regulação e responsabilidade jurídica sobre erros de agentes autônomos tornam-se urgências para o mercado financeiro brasileiro.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "IA generativa e agentes inteligentes lideram os investimentos no Mercado de Software no Brasil",
+          "fonte": "ABES",
+          "url": "https://abes.org.br/en/ia-generativa-e-agentes-inteligentes-lideram-os-investimentos-no-mercado-de-software-no-brasil/",
+          "destaque": "Mercado brasileiro de TI projeta crescimento de 5,3% em 2026, com Brasil mantendo liderança na América Latina impulsionado por IA generativa e agentes autônomos",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Bancos do Brasil veem IA agêntica como nova arma do crime",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/bancos-brasil-ia-agentica-fraude-biocatch",
+          "destaque": "90% dos 100 executivos do setor acreditam que IA agêntica será a principal vulnerabilidade explorada por criminosos nos próximos 12 meses; 83% acham extremamente desafiador separar atividades legítimas de ações maliciosas",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "23/jun/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Setor financeiro deixa regras fixas para antecipar fraudes",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/fraudes/fraudes-ganham-velocidade-com-ia-instituicoes-financeiras-acompanham/",
+          "destaque": "Entre julho de 2024 e junho de 2025, golpes com Pix ou boletos fizeram 24 milhões de vítimas com prejuízo de R$ 29 bilhões; IA aumentou escala, velocidade e realismo de fraudes em minutos",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "bancos",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Empresas que usam agentes de IA no atendimento ao cliente são as primeiras responsáveis por erros e fraudes, alerta especialista",
+          "fonte": "IT Forum",
+          "url": "https://itforum.com.br/noticias/agentes-de-ia-atendimento-erros-fraudes/",
+          "destaque": "Brasil corre contra o tempo para definir responsabilidade jurídica de agentes autônomos; arcabouço regulatório ainda em construção deixa fronteira entre autonomia das máquinas e responsabilidade humana como campo minado legal",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "IA em 2026: Brasil avança em finanças, regulação e produtividade assistida",
+          "fonte": "Diário Induscom",
+          "url": "https://www.diarioinduscom.com.br/Noticias/875321/ia_em_2026:_brasil_avanca_em_financas__regulacao_e_produtividade_assistida",
+          "destaque": "Orçamento em IA, analytics e big data dos bancos deve crescer de R$ 1,12 bilhão em 2024 para R$ 1,8 bilhão; Open Finance cria infraestrutura para crédito granular e detecção de fraude com IA",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "01/jul/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Nubank muda contratação e exige 'mentalidade de IA'",
+          "fonte": "Let's Money",
+          "url": "https://www.letsmoney.com.br/noticias/nubank-mentalidade-ia-contratacao",
+          "destaque": "Nubank exige 'mentalidade de IA' em processos seletivos e testa Figma Make para acelerar prototipagem; Itaú também acelerou desenvolvimento com agentes de IA",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "24/jun/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs"
+          ]
+        }
+      ]
+    },
+    "socios": {
+      "resumo": "Programas de fidelização intensificam promoções de transferência de pontos entre parceiros, com ofertas de bônus que chegam a 115% para atrair clientes no período de alta demanda de viagens. O varejo de luxo também registra movimentação com JHSF estruturando fundo para expandir participação em shopping premium.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Azul Fidelidade e Livelo oferecem até 115% de bônus na transferência de pontos",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontospravoar.com/azul-fidelidade-livelo-oferecem-ate-115-porcento-bonus-transferencia-pontos/",
+          "destaque": "Transferência bonificada com até 115% de bônus válida até 5 de julho de 2026",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/jul/2026",
+          "tambem_em": [
+            "loyalty"
+          ]
+        },
+        {
+          "titulo": "Confira três ofertas no Azul Fidelidade e LATAM Pass que terminam hoje",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontospravoar.com/confira-tres-ofertas-azul-fidelidade-latam-pass-terminam-hoje/",
+          "destaque": "Transferências de pontos Itaú com bônus extra e 1.000 milhas bônus para primeira transferência ao LATAM Pass",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "05/jul/2026",
+          "tambem_em": [
+            "loyalty",
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "LATAM Pass oferece 25% de bônus na transferência de pontos Livelo",
+          "fonte": "Melhores Destinos",
+          "url": "https://www.melhoresdestinos.com.br/milhas/livelo-latam-pass-jun26",
+          "destaque": "Promoção de 25% de bônus na transferência de pontos Livelo válida para todos os clientes",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "22/jun/2026",
+          "tambem_em": [
+            "loyalty"
+          ]
+        },
+        {
+          "titulo": "Prorrogou! Smiles e Livelo oferecem até 80% de bônus na transferência de pontos",
+          "fonte": "Pontos pra Voar",
+          "url": "https://pontospravoar.com/prorrogou-smiles-livelo-oferecem-ate-80-porcento-bonus-transferencia-pontos/",
+          "destaque": "Bônus de até 80% prorrogado com creditamento de milhas até 30/06/2026 e validade de 12 meses",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "24/jun/2026",
+          "tambem_em": [
+            "loyalty"
+          ]
+        },
+        {
+          "titulo": "JHSF estrutura fundo para ampliar sua participação em ativo do varejo de luxo",
+          "fonte": "Portal IN",
+          "url": "https://www.portalin.com.br/negocios/jhsf-estrutura-fundo-para-ampliar-sua-participacao-em-ativo-do-varejo-de-luxo/",
+          "destaque": "JHSF Capital SCJ FII busca captar R$ 293,8 milhões para adquirir 16,99% do Shopping Cidade Jardim avaliado em R$ 2,7 bilhões",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "18/jun/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        }
+      ]
+    }
+  }
+}
