@@ -1,0 +1,58 @@
+{
+  "data_edicao": "Segunda-feira, 20 de julho de 2026",
+  "data_geracao": "20/07/2026 · 05:00",
+  "janela": "6/jul/2026–20/jul/2026",
+  "periodo_recente": "6/jul/2026 a 20/jul/2026",
+  "temas": {
+    "cartoes": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "pagamentos": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "marketplace": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "varejo": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "tag": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "bancos": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "fintechs": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "loyalty": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "ia": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    },
+    "socios": {
+      "resumo": "Sem dados disponíveis",
+      "termometro": "neutro",
+      "noticias": []
+    }
+  }
+}
