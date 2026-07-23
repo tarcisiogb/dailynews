@@ -18,14 +18,14 @@ SERPER_API_KEY = os.environ.get("SERPER_API_KEY", "")
 TEMAS = [
     ("cartoes",    "Cartões",                ["cartões crédito débito Brasil 2026", "adquirência maquininha pagamento Brasil", "rotativo parcelado fatura cartão banco"]),
     ("pagamentos", "Meios de Pagamento",     ["Pix Open Finance pagamentos Brasil 2026", "stablecoin pagamento instantâneo Brasil", "meios pagamento regulação Banco Central"]),
-    ("marketplace","Marketplace",            ["marketplace e-commerce Amazon Mercado Livre Brasil 2026", "Shopee TikTok Shop varejo digital Brasil", "parceria fintech marketplace checkout Brasil"]),
+    ("marketplace","Marketplace",            ["marketplace e-commerce Amazon Mercado Livre Brasil 2026", "Shopee TikTok Shop varejo digital Brasil", "e-commerce Brasil crescimento vendas julho 2026"]),
     ("varejo",     "Varejo",                 ["varejo brasileiro crescimento vendas 2026", "supermercado franquias consumo Brasil", "varejo digital físico omnichannel Brasil"]),
     ("tag",        "Tag Veicular",           ["tag veicular pedágio Free Flow Brasil 2026", "ANTT concessão rodovia pedágio eletrônico", "mobilidade frota gestão tag veicular"]),
-    ("bancos",     "Bancos",                 ["bancos brasileiros crédito resultado 2026", "inadimplência regulação financeira Brasil", "banco digital incumbente competição Brasil"]),
-    ("fintechs",   "Fintechs",              ["fintechs brasileiras 2026 investimento produto", "fintech crédito digital pagamento Brasil", "startup financeira regulação BC Brasil"]),
+    ("bancos",     "Bancos",                 ["bancos brasileiros crédito resultado 2026", "inadimplência financeira Brasil 2026", "Itaú Bradesco Santander Nubank resultado"]),
+    ("fintechs",   "Fintechs",              ["fintechs brasileiras 2026 investimento produto", "fintech crédito digital pagamento Brasil", "Nubank Inter C6 PicPay novidades 2026"]),
     ("loyalty",    "Loyalty e Fidelização",  ["programa fidelidade pontos milhas cashback Brasil 2026", "transferência bônus milhas aéreas cartão", "loyalty parceria varejo banco Brasil"]),
     ("ia",         "Inteligência Artificial",["inteligência artificial banco fintech varejo Brasil 2026", "IA fraude pagamento automação financeiro", "ChatGPT IA generativa mercado Brasil"]),
-    ("socios",     "Sócios e Parceiros",     ["Carrefour GPA Azul LATAM Brasil notícias 2026", "JHSF Google Conectcar Casas Bahia Ponto Frio", "Amazon Nubank Magazine Luiza parceria Brasil"]),
+    ("socios",     "Sócios e Parceiros",     ["Carrefour Brasil supermercado varejo 2026", "Azul LATAM companhia aérea parceria 2026", "Amazon Brasil Prime marketplace 2026", "Nubank Magazine Luiza Casas Bahia novidades 2026", "Conectcar JHSF Google Brasil parceria"]),
 ]
 
 TODOS_IDS = [t[0] for t in TEMAS]
