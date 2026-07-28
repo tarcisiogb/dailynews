@@ -1,6 +1,10 @@
 {
   "edicoes": [
     {
+      "label": "Terça-feira, 28 de julho de 2026",
+      "arquivo": "2026-07-28.json"
+    },
+    {
       "label": "Segunda-feira, 27 de julho de 2026",
       "arquivo": "2026-07-27.json"
     },
