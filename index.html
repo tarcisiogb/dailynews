@@ -475,10 +475,12 @@ async function analisarNoticia(itemId) {
   if (typeof gtag !== 'undefined') gtag('event','analise_noticia',{event_category:'IA',event_label:titulo.substring(0,100)});
 
   try {
-    var prompt = CONTEXTO_ITAU
-      + '\n\nLeia o artigo completo nesta URL: ' + url
-      + '\n\nTitulo: "' + titulo + '"\nTrecho: "' + destaque + '"'
-      + '\n\nRetorne APENAS este JSON:\n{"resumo":"resumo em 2-3 frases","cartoes":"impacto Itau Cartoes","daily_banking":"impacto Daily Banking","beyond_banking":"impacto Beyond Banking","itau_shop":"impacto Itau Shop","tag":"impacto TAG Itau","loyalty":"impacto Loyalty Itau","insights":"principal insight estrategico"}';
+    var prompt = 'Voce e um analista do Banco Itau. Leia a URL abaixo e retorne SOMENTE um objeto JSON valido, sem texto antes ou depois, sem markdown, sem explicacoes.'
+      + '\n\nURL: ' + url
+      + '\nTitulo: ' + titulo
+      + '\n\nContexto Itau: ' + CONTEXTO_ITAU
+      + '\n\nJSON esperado (retorne APENAS isso):'
+      + '\n{"resumo":"2 frases sobre o artigo","cartoes":"impacto Itau Cartoes","daily_banking":"impacto Daily Banking","beyond_banking":"impacto Beyond Banking","itau_shop":"impacto Itau Shop","tag":"impacto TAG Itau","loyalty":"impacto Loyalty Itau","insights":"principal insight estrategico para o Itau"}';
 
     var response = await fetch(WORKER_URL, {
       method:'POST',
