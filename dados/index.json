@@ -1,6 +1,10 @@
 {
   "edicoes": [
     {
+      "label": "Quarta-feira, 26 de agosto de 2026",
+      "arquivo": "2026-08-26.json"
+    },
+    {
       "label": "Segunda-feira, 24 de agosto de 2026",
       "arquivo": "2026-08-24.json"
     },
@@ -115,10 +119,6 @@
     {
       "label": "Segunda-feira, 22 de junho de 2026",
       "arquivo": "2026-06-22.json"
-    },
-    {
-      "label": "Domingo, 21 de junho de 2026",
-      "arquivo": "2026-06-21.json"
     }
   ]
 }
