@@ -1,0 +1,964 @@
+{
+  "data_edicao": "Sexta-feira, 18 de setembro de 2026",
+  "data_geracao": "18/09/2026 · 05:00",
+  "janela": "4/set/2026–18/set/2026",
+  "periodo_recente": "4/set/2026 a 18/set/2026",
+  "temas": {
+    "cartoes": {
+      "resumo": "O mercado de cartões brasileiro movimentou R$ 2,3 trilhões no primeiro semestre de 2026, com crescimento de 8%, enquanto pagamentos por aproximação explodem com alta de 18,5% e já representam 76,2% das transações. Novos players como BTG Pactual entram no mercado de adquirência com soluções inovadoras, mas o endividamento das famílias atinge recordes preocupantes.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Cartões movimentam R$ 2,3 tri no 1º semestre, em alta de 8%, mostra Abecs",
+          "fonte": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cartoes-movimentam-r-23-tri-no-1o-semestre-em-alta-de-8-mostra-abecs/",
+          "destaque": "Volume total de R$ 2,3 trilhões com crescimento de 8%, enquanto débito recua 1,8% para R$ 481,6 bilhões",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "01/ago/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Pagamentos por aproximação movimentam R$ 1 trilhão no 1º semestre e crescem 18,5%",
+          "fonte": "Times Brasil | CNBC",
+          "url": "https://timesbrasil.com.br/brasil/pagamentos-por-aproximacao-movimentam-r-1-trilhao-no-1o-semestre-e-crescem-185/",
+          "destaque": "Pagamentos por aproximação já representam 76,2% das transações com alta de 18,5% em um ano",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "BTG entra em adquirência e traça plano para não 'ser mais um' na disputa das maquininhas",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/negocios/btg-entra-em-adquirencia-e-traca-plano-para-nao-ser-mais-um-na-disputa-das-maquininhas/",
+          "destaque": "BTG Pactual lança BTG Pay com bandeira própria de cartão B2B e maquininha com duas telas em mercado estimado em R$ 50 trilhões",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "12/set/2026",
+          "tambem_em": [
+            "fintechs",
+            "bancos",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Metrô de SP passa a aceitar pagamento por aproximação em todas as catracas",
+          "fonte": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/11/metro-de-sp-passa-a-aceitar-pagamento-por-aproximacao-em-todas-as-catracas.ghtml",
+          "destaque": "Sistema de pagamento por aproximação implementado em todas as linhas do Metrô de SP a partir de 14 de setembro",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Cartão cresce e dinheiro perde espaço nas compras no varejo",
+          "fonte": "DComercio",
+          "url": "https://dcomercio.com.br/publicacao/s/cartao-cresce-e-dinheiro-perde-espaco-nas-compras-no-varejo",
+          "destaque": "Participação de cartão de crédito nas compras sobe de 39,4% em 2023 para 43,6% em 2026, enquanto dinheiro cai de 17,9% para 11,3%",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "varejo",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Endividamento recorde das famílias acende alerta no BC",
+          "fonte": "SpaceMoney",
+          "url": "https://www.spacemoney.com.br/credito/endividamento-das-familias-recorde/",
+          "destaque": "Comprometimento da renda com dívidas atinge 28,9% e inadimplência renova recorde",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        }
+      ]
+    },
+    "pagamentos": {
+      "resumo": "O Brasil consolida sua liderança global em pagamentos instantâneos com o Pix e Open Finance, atraindo empresas internacionais e impulsionando inovações como pagamentos por IA e stablecoins. Simultaneamente, o setor enfrenta desafios regulatórios crescentes relacionados a fraudes, segurança e responsabilidade das instituições financeiras.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Open Finance simplifica o Pix no e-commerce",
+          "fonte": "Valor Econômico",
+          "url": "https://valor.globo.com/publicacoes/especiais/meios-de-pagamento/noticia/2026/08/31/open-finance-simplifica-o-pix-no-e-commerce.ghtml",
+          "destaque": "Mercado investe em biometria e jornadas sem redirecionamento para eliminar etapas no checkout",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "31/ago/2026",
+          "tambem_em": [
+            "ia",
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Empresas globais de pagamentos e crédito chegam ao Brasil atraídas por Pix e Open Finance",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/conteudo-de-marca/por-que-o-mundo-resolveu-entrar-no-open-finance-brasileiro/",
+          "destaque": "Pix e Open Finance brasileiro atraem empresas globais de pagamentos e crédito, impulsionando infraestrutura financeira",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "18/ago/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Agentes de inteligência artificial já pagam por conta própria. O que isso significa para o investidor?",
+          "fonte": "BM&C",
+          "url": "https://bmcnews.com.br/opiniao/agentes-de-inteligencia-artificial-ja-pagam-por-conta-propria-o-que-isso-significa-para-o-investidor/",
+          "destaque": "Banco do Brasil concluiu primeira transação feita por agente de inteligência artificial em 11 de março de 2026",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "ia",
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Brasil debate novas regras para stablecoins entre inovação e segurança",
+          "fonte": "Por Dentro de Tudo",
+          "url": "https://pordentrodetudo.com.br/brasil-debate-novas-regras-para-stablecoins-entre-inovacao-e-seguranca/",
+          "destaque": "Mercado brasileiro de ativos digitais entrou em nova etapa em 2026 com adoção transversal crescente de bitcoin",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "16/set/2026",
+          "tambem_em": [
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Fraude Bancária. Seu crescimento acompanha a evolução tecnológica",
+          "fonte": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/464320/fraude-bancaria-seu-crescimento-acompanha-a-evolucao-tecnologica",
+          "destaque": "Golpes em contas bancárias crescem com digitalização, enquanto bancos enfrentam responsabilidade objetiva e novas medidas",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "16/set/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Novas regras do Banco Central para bancos e fintechs: o que muda na abertura de contas?",
+          "fonte": "Serasa",
+          "url": "https://www.serasa.com.br/blog/novas-regras-banco-central-para-bancos-e-fintechs/",
+          "destaque": "Facilidade na abertura de contas digitais abriu espaço para fraudes; Banco Central implementa medidas para combater golpes",
+          "categoria": "Regulatório",
+          "impacto": "médio",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "bancos",
+            "fintechs"
+          ]
+        }
+      ]
+    },
+    "marketplace": {
+      "resumo": "O mercado de marketplaces brasileiro movimentou R$ 421,8 bilhões em 2025, com Mercado Livre consolidando liderança e expandindo parcerias estratégicas como a com Magalu. Plataformas enfrentam desafios operacionais para pequenos e médios vendedores, enquanto tecnologias como IA e live commerce emergem como diferenciais competitivos.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Os maiores marketplaces do Brasil somam R$ 421,8 bilhões; veja o ranking",
+          "fonte": "Exame",
+          "url": "https://exame.com/negocios/os-maiores-marketplaces-do-brasil-somam-r-4218-bilhoes-veja-o-ranking/",
+          "destaque": "Mercado Livre, Shopee e Magazine Luiza lideram a lista; Temu registra o maior crescimento, com alta de 376% em 2025.",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "28/ago/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Magalu entra no Mercado Livre. O nome do jogo é escala (para as duas empresas)",
+          "fonte": "NeoFeed",
+          "url": "https://neofeed.com.br/negocios/magalu-entra-no-mercado-livre-o-nome-jogo-e-escala-para-as-duas-empresas/",
+          "destaque": "Após acordo com a Amazon, o Magalu passa a vender 27 mil itens no maior marketplace do País, ampliando acesso a novos clientes.",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "socios",
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Menções ao Mercado Livre disparam 11.444% e cinco gigantes travam disputa por Black Friday",
+          "fonte": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/do-micro-ao-macro/disputa-mercado-livre-cinco-marcas-black-friday/",
+          "destaque": "Estudo da Timelens mostra Mercado Livre na liderança da disputa por atenção, capital e live commerce entre as cinco maiores marcas.",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "18/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Mercado Livre movimentou R$ 73,1 bilhões na economia brasileira em 2025, calcula comando",
+          "fonte": "Valor Econômico",
+          "url": "https://valor.globo.com/empresas/noticia/2026/08/31/mercado-livre-movimentou-r-731-bilhoes-na-economia-brasileira-em-2025-calcula-comando.ghtml",
+          "destaque": "Cerca de 5,3 milhões de pequenas e médias empresas e empreendedores operam no ecossistema; para 60% dos vendedores no marketplace.",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "31/ago/2026",
+          "tambem_em": [
+            "varejo",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Mercado Livre, Amazon, Shopee e TikTok Shop: os marketplaces valem a pena para pequenos e médios negócios?",
+          "fonte": "Seu Dinheiro",
+          "url": "https://www.seudinheiro.com/2026/seu-negocio/mercado-livre-amazon-shopee-e-tiktok-shop-os-marketplaces-valem-a-pena-para-pequenos-e-medios-negocios-giov/",
+          "destaque": "As plataformas facilitam a entrada no comércio online, mas sacrificam parte dos ganhos financeiros; análise dos prós e contras dos shoppings digitais.",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "IA e escala reduzem distância entre pequenos sellers e grandes marketplaces no Fórum E-Commerce Brasil 2026",
+          "fonte": "CNDL - Confederação Nacional de Dirigentes Lojistas",
+          "url": "https://cndl.org.br/varejosa/ia-e-escala-reduzem-distancia-entre-pequenos-sellers-e-grandes-marketplaces-no-forum-e-commerce-brasil-2026/",
+          "destaque": "Inteligência Artificial e escalabilidade emergem como fatores para reduzir assimetria entre pequenos vendedores e grandes plataformas.",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "ia",
+            "varejo"
+          ]
+        }
+      ]
+    },
+    "varejo": {
+      "resumo": "O varejo brasileiro enfrenta desaceleração significativa em julho de 2026, com quedas superiores ao esperado (0,8% mensal e 2,8% anual em termos reais), contrariando projeções de crescimento de 2,1% para o ano. Marcas próprias e segmentos específicos como livros e foodservice mantêm crescimento, enquanto inovações em canais de distribuição e modelos omnichannel ganham força como estratégia de recuperação.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Varejo Cai 4 Vezes Mais do Que o Esperado e Mostra Que o Consumo Perdeu o Fôlego",
+          "fonte": "Forbes Brasil",
+          "url": "https://forbes.com.br/forbes-money/2026/09/varejo-cai-consumo-perde-folego-renda-credito-julho-2026/",
+          "destaque": "Vendas no varejo recuaram 0,8% em julho, resultado quatro vezes pior que a queda de 0,2% projetada por economistas",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "16/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Vendas reais no varejo caem 2,8% em julho e devem recuar até outubro",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/31/08/2026/noticias-varejo/vendas-reais-no-varejo-caem-28-em-julho-e-devem-recuar-ate-outubro/",
+          "destaque": "Vendas reais do varejo brasileiro descontada a inflação recuaram 2,8% em julho na comparação com mesmo mês de 2025",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "31/ago/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "'Marcas próprias' no varejo tem crescimento maior que o mercado em 2026",
+          "fonte": "O GLOBO",
+          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/08/marcas-proprias-no-varejo-tem-crescimento-maior-que-o-mercado-em-2026.ghtml",
+          "destaque": "Marcas próprias movimentaram R$ 10,8 bilhões no Brasil no acumulado até junho, crescendo acima da média do mercado",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "21/ago/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Papa Johns prepara entrada no Brasil e terá São Paulo como mercado inicial",
+          "fonte": "Mercado&Consumo",
+          "url": "https://mercadoeconsumo.com.br/16/09/2026/foodservice/papa-johns-prepara-entrada-no-brasil-e-tera-sao-paulo-como-mercado-inicial/",
+          "destaque": "Papa Johns coloca Brasil como prioridade na expansão internacional, impulsionada pelo tamanho do mercado e avanço do delivery",
+          "categoria": "Competição",
+          "impacto": "médio",
+          "data_pub": "16/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Futuro do varejo: experiência integrada entre o físico e o digital ganha força",
+          "fonte": "SEGS Portal Nacional",
+          "url": "https://www.segs.com.br/seguros/454943-futuro-do-varejo-experiencia-integrada-entre-o-fisico-e-o-digital-ganha-forca",
+          "destaque": "Consumidor passa a transitar entre ambientes físico e digital ao longo da mesma jornada de compra",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        }
+      ]
+    },
+    "tag": {
+      "resumo": "O Governo Federal integrou o sistema de pedágio free flow à CNH digital, permitindo que motoristas consultem passagens e tarifas pendentes em um único app a partir de agosto de 2026. A expansão da tecnologia de cobrança automática em rodovias federais avança com novos pontos previstos, enquanto cresce a preocupação com fraudes e orientação de pagamento.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "CNH digital vai centralizar aviso e pagamento de pedágio free flow; motorista receberá alerta no celular",
+          "fonte": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/cnh-digital-vai-centralizar-aviso-e-pagamento-de-pedagio-free-flow-motorista-recebera-alerta-no-celular.shtml",
+          "destaque": "Ministério dos Transportes atualiza app CNH do Brasil para avisar motoristas sobre passagens em pedágios eletrônicos com centralização de aviso e pagamento",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "24/ago/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o pedágio eletrônico",
+          "fonte": "G1",
+          "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
+          "destaque": "Consulta e meios de pagamento centralizados em app onde motorista já conseguia ver multas e CNH, oferecendo solução integrada para pedágio eletrônico",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "24/ago/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Guia do pedágio eletrônico: saiba como pagar no prazo correto e evitar multas",
+          "fonte": "Estadão",
+          "url": "https://www.estadao.com.br/estadao-verifica/guia-do-pedagio-eletronico-saiba-como-pagar-no-prazo-correto-e-evitar-multas/",
+          "destaque": "Governo federal estabelece medidas de transição e prazos para pagamento do sistema free flow, com foco em esclarecer desinformação entre motoristas",
+          "categoria": "Regulatório",
+          "impacto": "médio",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Free Flow: tags ajudam a evitar golpes no pedágio eletrônico",
+          "fonte": "Vrum",
+          "url": "https://www.vrum.com.br/aceleradas/2026/09/7496304-free-flow-tags-ajudam-a-evitar-golpes-no-pedagio-eletronico.html",
+          "destaque": "Criminosos exploram falta de familiaridade de motoristas com modelo free flow, alertando para importância de tags e cuidados contra fraudes na cobrança automática",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "11/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "BR-040 terá novo pedágio free flow em novembro; veja onde",
+          "fonte": "iG Último Segundo",
+          "url": "https://ultimosegundo.ig.com.br/2026-09-10/br-040-tera-novo-pedagio-free-flow-em-novembro--veja-onde.html",
+          "destaque": "Novo sistema de pedágio free flow será instalado em Simão Pereira, Minas Gerais, no km 819,3 da BR-040, substituindo praça convencional",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "10/set/2026",
+          "tambem_em": [
+            "veiculos"
+          ]
+        }
+      ]
+    },
+    "bancos": {
+      "resumo": "O setor bancário brasileiro enfrenta pressão crescente com inadimplência em patamares recordes e bancos aumentando provisões, levando o BC e Febraban a discutirem medidas para conter oferta de crédito. Apesar dos desafios, instituições como Caixa e fintechs mantêm lucros expressivos, enquanto greve na Caixa afeta programas de crédito.",
+      "termometro": "negativo",
+      "noticias": [
+        {
+          "titulo": "Brasil bate recorde de inadimplência em 2026 entre famílias, empresas e governo",
+          "fonte": "Exame",
+          "url": "https://exame.com/economia/brasil-bate-recorde-de-inadimplencia-em-2026-entre-familias-empresas-e-governo/",
+          "destaque": "O avanço do endividamento e da inadimplência atingiu patamares recordes no Brasil, tanto no setor público quanto nas famílias e corporações",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "18/ago/2026",
+          "tambem_em": [
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "Greve da Caixa atrasa crédito do programa Move Brasil e financiamentos imobiliários",
+          "fonte": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/09/greve-da-caixa-atrasa-credito-do-programa-move-brasil-e-financiamentos-imobiliarios.shtml",
+          "destaque": "Paralisação afeta análise de propostas de crédito e contratações, com motoristas relatando dificuldades nas operações",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "18/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Bancos aumentam provisões por causa da inadimplência",
+          "fonte": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/cresce-impacto-da-inadimplencia-em-grandes-bancos/",
+          "destaque": "Os grandes bancos brasileiros elevaram o provisionamento para perdas com crédito no 2º trimestre de 2026, na comparação com o mesmo período de 2025",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Instituições financeiras exageraram na oferta de crédito e devem fazer 'mea culpa', diz Febraban",
+          "fonte": "Valor Econômico",
+          "url": "https://valor.globo.com/financas/noticia/2026/08/24/bancos-exageraram-na-oferta-de-crdito-e-tm-que-fazer-mea-culpa-diz-febraban.ghtml",
+          "destaque": "Presidente da Febraban afirma que bancos exageraram na oferta de crédito, mas lembra que juros altos também estão por trás da piora do cenário",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "24/ago/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Nubank e XP impulsionam lucro de fintechs para R$ 8,94 bilhões no 2T26",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/resultados-financeiros/fintechs-lucram-r-894-bilhoes-no-trimestre-alta-de-153/",
+          "destaque": "Nubank, XP e outras fintechs registram lucro líquido de R$ 8,94 bilhões no 2T26, impulsionado por recordes e desafios com inadimplência",
+          "categoria": "Competição",
+          "impacto": "médio",
+          "data_pub": "18/ago/2026",
+          "tambem_em": [
+            "fintechs"
+          ]
+        },
+        {
+          "titulo": "IA nos bancos: da experiência do cliente à rotina da equipe, o que está mudando",
+          "fonte": "Estadão",
+          "url": "https://www.estadao.com.br/economia/negocios/ia-nos-bancos-da-experiencia-do-cliente-a-rotina-da-equipe-o-que-esta-mudando/",
+          "destaque": "Depois de anos de investimentos em digitalização, dados e infraestrutura, os maiores bancos brasileiros entraram em uma nova etapa de transformação com a IA",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "18/ago/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        }
+      ]
+    },
+    "fintechs": {
+      "resumo": "O ecossistema fintech brasileiro experimenta expansão acelerada com fintechs conquistando licenças regulatórias, investimentos massivos e disputa crescente por segmentos de crédito. Inovações em IA, marketplace de crédito e inclusão financeira redefinem a competição entre startups, bancos tradicionais e players globais.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "IA ameaça transformar startups em 'features', diz Itaú Ventures",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/negocios-em-fintechs/ia-ameaca-transformar-startups-em-features-diz-itau-ventures/",
+          "destaque": "IA acelera processos e permite lançar produtos mais rapidamente a custos menores, mas pode transformar startups independentes em features de grandes players",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "18/set/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        },
+        {
+          "titulo": "Margem de 45% para crédito consignado reacende disputa entre bancos e fintechs",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/credito-digital/volta-da-margem-de-45-poe-bancos-e-fintechs-na-disputa-por-clientes-do-inss/",
+          "destaque": "Volta da margem de 45% para crédito consignado do INSS reacende competição entre bancos tradicionais e fintechs por aposentados e pensionistas",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "18/set/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Fintech alemã SumUp ganha licença de financeira e nomeia nova CEO no Brasil para avançar no crédito",
+          "fonte": "Valor Econômico",
+          "url": "https://valor.globo.com/financas/noticia/2026/08/31/fintech-alema-sumup-ganha-licenca-de-financeira-e-nomeia-nova-ceo-no-brasil-para-avançar-no-credito.ghtml",
+          "destaque": "SumUp obtém licença do Banco Central para operar como financeira, ampliando atuação em crédito para micro, pequenos e médios empreendedores",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "31/ago/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Bancos digitais adicionam R$ 1,6 trilhão ao PIB brasileiro em uma década",
+          "fonte": "brazileconomy.com.br",
+          "url": "https://brazileconomy.com.br/financas/2026/09/bancos-digitais-adicionam-r-16-trilhao-ao-pib-brasileiro-em-uma-decada/",
+          "destaque": "Expansão de instituições financeiras digitais acrescentou aproximadamente R$ 1,6 trilhão ao PIB brasileiro em dez anos",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "'Marketplaces' ganham mais espaço no crédito e disputam clientes com bancos",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/negocios-em-fintechs/marketplaces-ganham-mais-espaco-no-credito-e-disputam-clientes-com-bancos/",
+          "destaque": "Marketplaces ampliam presença no segmento de crédito, antes restrito a bancos tradicionais, criando nova dinâmica competitiva com cooperativas, neobancos e fintechs",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "marketplace",
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "iFood anuncia investimento de R$ 24 bi no Brasil",
+          "fonte": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/ifood-anuncia-investimento-de-r-24-bi-no-brasil/",
+          "destaque": "iFood anuncia investimento de R$ 24 bilhões no Brasil no ano fiscal de abril de 2026 a março de 2027, reforçando expansão do ecossistema fintech",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "16/set/2026",
+          "tambem_em": [
+            "marketplace"
+          ]
+        }
+      ]
+    },
+    "loyalty": {
+      "resumo": "O mercado de loyalty no Brasil intensifica competições entre programas de milhas com promoções agressivas de bônus de até 80%, enquanto novas integrações entre plataformas de cashback e programas aéreos expandem as opções de conversão de pontos. A inovação tecnológica e as parcerias estratégicas redefinem o segmento, com empresas apostando em IA e modelos mais flexíveis de fidelização.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito",
+          "fonte": "Melhores Cartões",
+          "url": "https://www.melhorescartoes.com.br/smiles-80-bonus-set26.html",
+          "destaque": "Programa oferece até 80% de bônus na transferência de pontos de cartões de crédito, válido para TODOS os parceiros incluindo Livelo e Esfera",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "cartoes"
+          ]
+        },
+        {
+          "titulo": "Latam Pass lança campanha com bônus de até 80 mil milhas; confira regras",
+          "fonte": "InfoMoney",
+          "url": "https://www.infomoney.com.br/consumo/latam-pass-viagem-promocao-bonus/",
+          "destaque": "LATAM Pass lança campanha de aniversário de 7 anos no Brasil com benefícios de até 80 mil milhas bônus para clientes",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "cartoes",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Cashback do PicPay agora pode ser convertido em milhas LATAM Pass",
+          "fonte": "LATAM Airlines",
+          "url": "https://www.latamairlines.com/br/pt/imprensa/noticias/cashback-do-picpay-agora-pode-ser-convertido-em-milhas-latam-pas",
+          "destaque": "Nova parceria permite transferências de cashback PicPay em milhas LATAM Pass a partir de 100 pontos, com paridade 1:1, disponível em 15/9",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "socios",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "De clube de descontos a plataforma de fidelidade: Alloyal completa 10 anos e aposta em IA",
+          "fonte": "Diário do Comércio",
+          "url": "https://diariodocomercio.com.br/negocios/alloyal-programa-fidelidade-loyalty-tech/",
+          "destaque": "Mercado de programas de fidelidade evolui de plataformas de descontos e acúmulo de pontos para modelos mais sofisticados com uso de IA",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "ia"
+          ]
+        },
+        {
+          "titulo": "Inter Loop: como funciona o programa de benefícios e quais vantagens oferece",
+          "fonte": "Rádio Itatiaia",
+          "url": "https://www.itatiaia.com.br/economia/negocios/inter-loop-como-funciona-o-programa-de-beneficios-e-quais-vantagens-oferece/",
+          "destaque": "Inter Loop transforma compras em pontos conversíveis em cashback, milhas, investimentos, dólares, descontos em fatura e outros benefícios",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "28/ago/2026",
+          "tambem_em": [
+            "cartoes",
+            "bancos"
+          ]
+        }
+      ]
+    },
+    "ia": {
+      "resumo": "O mercado financeiro brasileiro experimenta aceleração na adoção de IA agêntica para automatizar pagamentos e operações, com fintechs e bancos investindo bilhões em transformação digital. Simultaneamente, surgem desafios críticos de regulamentação, segurança e fraude que demandam governança robusta.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Elo e Microsoft anunciam solução com agente de IA para automatizar pagamentos corporativos dentro do Excel",
+          "fonte": "Microsoft Source",
+          "url": "https://news.microsoft.com/source/latam/ia-pt-br/elo-e-microsoft-anunciam-solucao-com-agente-de-ia-para-automatizar-pagamentos-corporativos-dentro-do-excel/?lang=pt-br",
+          "destaque": "Elo lança solução inédita com agente de IA para automatizar pagamentos corporativos, representando avanço prático em IA agêntica no mercado empresarial brasileiro",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "21/ago/2026",
+          "tambem_em": [
+            "pagamentos",
+            "fintechs",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Pagamentos agênticos com IA: desafios de governança e regulamentação no Brasil",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/regulamentacao/avanco-dos-agentes-de-ia-esbarra-na-falta-de-regulamentacao/",
+          "destaque": "Pagamentos agênticos com IA ganham força no Brasil, mas enfrentam desafios críticos de governança e regulamentação que precisam ser endereçados",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "17/set/2026",
+          "tambem_em": [
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "F360 acelera transformação em fintech e amplia oferta de crédito ao varejo",
+          "fonte": "brazileconomy.com.br",
+          "url": "https://brazileconomy.com.br/financas/2026/09/f360-acelera-transformacao-em-fintech-e-amplia-oferta-de-credito-ao-varejo/",
+          "destaque": "Fintech integra IA em plataforma com 15 mil clientes para oferecer liquidez e previsibilidade ao varejo, demonstrando aplicação prática de IA em crédito",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "04/set/2026",
+          "tambem_em": [
+            "fintechs",
+            "varejo",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "iFood anuncia investimento recorde de R$ 24 bi em meio a disputas na Justiça e no Cade",
+          "fonte": "Terra",
+          "url": "https://www.terra.com.br/economia/ifood-anuncia-investimento-recorde-de-r-24-bi-em-meio-a-disputas-na-justica-e-no-cade,a64d4124d7f80754ed5557885592cb53kyjx1042.html",
+          "destaque": "iFood investe R$ 24 bilhões (41% de aumento) em expansão além delivery, incluindo varejo, fintech e tecnologia, sinalizando aposta massiva em ecossistema digital",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "16/set/2026",
+          "tambem_em": [
+            "marketplace",
+            "fintechs",
+            "varejo",
+            "pagamentos"
+          ]
+        },
+        {
+          "titulo": "Crimes financeiros na era da IA: bancos tentam antecipar o golpe antes que o dinheiro desapareça",
+          "fonte": "Terra",
+          "url": "https://www.terra.com.br/economia/crimes-financeiros-na-era-da-ia-bancos-tentam-antecipar-o-golpe-antes-que-o-dinheiro-desapareca,c1aeda0456e90798aae8a76f3f2a646exs5gflcp.html",
+          "destaque": "Bancos utilizam IA para detectar fraudes em frações de segundo, evidenciando aplicação crítica de IA em segurança e prevenção de golpes financeiros",
+          "categoria": "Tecnologia",
+          "impacto": "alto",
+          "data_pub": "21/ago/2026",
+          "tambem_em": [
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "B3 estuda expandir mercados de previsão para investidores de varejo",
+          "fonte": "Finsiders Brasil",
+          "url": "https://finsidersbrasil.com.br/negocios-em-fintechs/b3-avalia-levar-mercados-de-previsao-ao-investidor-de-varejo/",
+          "destaque": "B3 avalia democratizar mercados de previsão (antes restritos a institucionais) para varejo com foco em educação financeira, ampliando acesso a instrumentos de IA",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "17/set/2026",
+          "tambem_em": [
+            "varejo",
+            "bancos"
+          ]
+        }
+      ]
+    },
+    "socios": {
+      "resumo": "O varejo brasileiro enfrenta reestruturações significativas com demissões em massa do Grupo Mateus e saída do Carrefour de algumas praças, enquanto marcas próprias ganham espaço no mercado. O setor de aviação mantém parcerias estratégicas entre Azul, Gol e Latam, apesar de pressões de rentabilidade e mudanças regulatórias.",
+      "termometro": "neutro",
+      "noticias": [
+        {
+          "titulo": "Carrefour será substituído por novas redes de supermercados no Brasil após negociações milionárias",
+          "fonte": "Portal Tempo Novo",
+          "url": "https://www.portaltemponovo.com.br/carrefour-substituido-por-novas-redes-de-supermercados-brasil/",
+          "destaque": "Carrefour começou a ser substituído por novas redes de supermercados em diferentes cidades brasileiras após uma sequência de negociações envolvendo lojas",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "17/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Maior rede de supermercados do Brasil fecha 28 lojas e demite 6 mil funcionários",
+          "fonte": "Banda B",
+          "url": "https://www.bandab.com.br/economia/maior-rede-de-supermercados-do-brasil-fecha-28-lojas-e-demite-6-mil-funcionarios/",
+          "destaque": "Grupo Mateus fechou 28 lojas e demitiu 6.673 funcionários no primeiro trimestre de 2026",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "EXCLUSIVO: Avanço das marcas próprias movimenta bilhões no varejo brasileiro e atinge 30% dos lares",
+          "fonte": "Times Brasil | CNBC",
+          "url": "https://timesbrasil.com.br/empresas-e-negocios/servicos-e-varejo/exclusivo-avanco-das-marcas-proprias-movimenta-bilhoes-no-varejo-brasileiro-e-atinge-30-dos-lares/",
+          "destaque": "Marcas próprias estão deixando de ser associadas a produtos de menor preço e alcançando protagonismo no varejo brasileiro",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "15/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Inteligência Artificial no supermercado: como a tecnologia reduz perdas e transforma a operação das redes",
+          "fonte": "SuperVarejo",
+          "url": "https://www.supervarejo.com.br/tecnologia/inteligencia-artificial-no-supermercado-como-a-tecnologia-reduz-perdas-e-transforma-a-operacao-das-redes",
+          "destaque": "Dados em tempo real, automação e análise preditiva tornam decisões mais rápidas, aumentam eficiência operacional e melhoram experiência de compra",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "18/set/2026",
+          "tambem_em": [
+            "varejo",
+            "ia"
+          ]
+        },
+        {
+          "titulo": "Dono do Pão de Açúcar diz que Justiça estipulou prazo para MP-SP apresentar provas sobre retirada de credores",
+          "fonte": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/dono-do-pao-de-acucar-diz-que-justica-estipulou-prazo-para-mp-sp-apresentar-provas-sobre-retirada-de-credores.shtml",
+          "destaque": "GPA comunica que Justiça solicitou que promotoria mostre elementos concretos sobre retirada de credores em até cinco dias",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "14/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Latam supera Azul e assume maior tarifa média pela primeira vez em 14 anos",
+          "fonte": "VEJA",
+          "url": "https://veja.abril.com.br/economia/latam-supera-azul-e-assume-maior-tarifa-media-pela-primeira-vez-em-14-anos/",
+          "destaque": "Latam ultrapassa Azul em tarifa média pela primeira vez em mais de uma década",
+          "categoria": "Competição",
+          "impacto": "médio",
+          "data_pub": "15/set/2026",
+          "tambem_em": []
+        }
+      ]
+    },
+    "classificados": {
+      "resumo": "O mercado automotivo brasileiro mantém trajetória de alta impulsionada por juros mais baixos e redução de preços, mas enfrenta desafios com fraudes em plataformas de classificados e pressão nos preços de seminovos pelo avanço das marcas chinesas. Consumidores demonstram interesse em veículos eletrificados, mas ainda preferem modelos flex na hora da compra.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Juros mais baixos e média de preço menor impulsionam venda de carros no Brasil",
+          "fonte": "Estadão",
+          "url": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/juros-mais-baixos-e-media-de-preco-menor-impulsionam-venda-de-carros-no-brasil/",
+          "destaque": "Alta no comércio de novos e usados, mas acende alerta para inadimplência e inflação no 2º semestre",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/set/2026",
+          "tambem_em": [
+            "veiculos"
+          ]
+        },
+        {
+          "titulo": "Brasileiro quer carro elétrico ou híbrido, mas na hora de comprar escolhe o flex",
+          "fonte": "AutoPapo",
+          "url": "https://autopapo.com.br/curta/brasileiro-quer-carro-eletrico-ou-hibrido-mas-na-hora-de-comprar-escolhe-o-flex/",
+          "destaque": "29% dos compradores consideram eletrificados, mas modelos representam apenas 3% das vendas de usados e seminovos",
+          "categoria": "Tendência",
+          "impacto": "médio",
+          "data_pub": "02/set/2026",
+          "tambem_em": [
+            "veiculos"
+          ]
+        },
+        {
+          "titulo": "Efeito China derruba preço de seminovos em até 21% no Brasil",
+          "fonte": "DOL",
+          "url": "https://dol.com.br/noticias/auto-dicas/961868/efeito-china-derruba-preco-de-seminovos-em-ate-21-no-brasil",
+          "destaque": "Avanço das marcas chinesas e descontos nos carros novos pressionam o mercado de seminovos, com queda média de 9,3% no primeiro semestre de 2026",
+          "categoria": "Competição",
+          "impacto": "alto",
+          "data_pub": "02/set/2026",
+          "tambem_em": [
+            "veiculos"
+          ]
+        },
+        {
+          "titulo": "Golpe da OLX: saiba como identificar e se proteger | Blog Premium",
+          "fonte": "Serasa",
+          "url": "https://www.serasa.com.br/premium/blog/golpe-olx/",
+          "destaque": "Com o crescimento das compras e vendas online, o número de fraudes em marketplaces também disparou nos últimos anos",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "12/set/2026",
+          "tambem_em": [
+            "marketplace"
+          ]
+        },
+        {
+          "titulo": "Loja de veículos fecha em Maringá e donos descobrem que carros foram vendidos sem receber o dinheiro",
+          "fonte": "GMC Online",
+          "url": "https://gmconline.com.br/noticias/cidade/garagem-fecha-em-maringa-e-donos-descobrem-que-carros-foram-vendidos-sem-receber-o-dinheiro/",
+          "destaque": "Garagem de veículos fechou depois que proprietários descobriram que seus carros haviam sido vendidos sem receberem os valores",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "27/ago/2026",
+          "tambem_em": [
+            "veiculos"
+          ]
+        }
+      ]
+    },
+    "veiculos": {
+      "resumo": "O governo sanciona o Move Brasil como programa permanente com R$ 30 bilhões para financiamento de veículos a motoristas de aplicativo e taxistas, com prazos estendidos até 84 meses e limite elevado para R$ 200 mil. O mercado automotivo brasileiro cresce robustamente, atingindo recorde de produção com 271,2 mil unidades em agosto e vendas 22% acima do ano anterior, impulsionado por crédito favorável e avanço de marcas chinesas.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Lula sanciona crédito para compra de carro por motoristas de aplicativo e taxistas",
+          "fonte": "O Globo",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/09/14/lula-sanciona-credito-para-compra-de-carro-por-motoristas-de-aplicativo-e-taxistas.ghtml",
+          "destaque": "Presidente Lula sanciona lei tornando permanente o Move Brasil com R$ 30 bilhões executados parcialmente (R$ 5 bilhões já desembolsados)",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "14/set/2026",
+          "tambem_em": [
+            "pagamentos",
+            "fintechs",
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Produção de veículos alcança recorde",
+          "fonte": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/economia/2026/09/7496529-producao-de-veiculos-alcanca-recorde.html",
+          "destaque": "Produção de 271,2 mil unidades em agosto é o maior volume em 7 anos, com previsão de crescimento de 8,6% no ano",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Move Brasil passa a permitir financiamento de carros em até 84 meses",
+          "fonte": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/move-brasil-passa-a-permitir-financiamento-de-carros-em-ate-84-meses.shtml",
+          "destaque": "CMN aprova extensão dos prazos de financiamento até 84 meses para motoristas de aplicativo e taxistas, ampliando elegibilidade de veículos",
+          "categoria": "Regulatório",
+          "impacto": "alto",
+          "data_pub": "20/ago/2026",
+          "tambem_em": [
+            "pagamentos",
+            "bancos"
+          ]
+        },
+        {
+          "titulo": "Vendas de veículos novos sobem 22% em agosto e mostram força do mercado",
+          "fonte": "vtvnews.com.br",
+          "url": "https://vtvnews.com.br/noticias/economia/vendas-de-veiculos-novos-sobem-22-em-agosto-e-mostram-forca-do-mercado-ls/",
+          "destaque": "Emplacamentos de 1,97 milhão entre janeiro e agosto demonstram crescimento robusto impulsionado por crédito e queda de preços",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "02/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        },
+        {
+          "titulo": "Chevrolet perde 42% das vendas em sete anos e enfrenta crise com rede de concessionários",
+          "fonte": "AutoPapo",
+          "url": "https://autopapo.com.br/curta/chevrolet-perde-42-das-vendas-em-sete-anos-e-enfrenta-crise-com-rede-de-concessionarios/",
+          "destaque": "Chevrolet registra queda de 42% em volume de vendas em sete anos enquanto enfrenta tensões com rede de concessionários",
+          "categoria": "Competição",
+          "impacto": "médio",
+          "data_pub": "12/set/2026",
+          "tambem_em": [
+            "varejo"
+          ]
+        }
+      ]
+    },
+    "seguros": {
+      "resumo": "O mercado de seguros e saúde no Brasil mantém crescimento robusto, com 76 mil novos beneficiários em julho chegando a 53,2 milhões de segurados, enquanto seguradoras ampliam estratégias de expansão através de inovações tecnológicas, novos produtos (microsseguros) e iniciativas de relacionamento com corretores e clientes.",
+      "termometro": "positivo",
+      "noticias": [
+        {
+          "titulo": "Planos de saúde mantém crescimento com SulAmérica e Bradesco Saúde na dianteira",
+          "fonte": "Sindicato dos Bancários de Cascavel",
+          "url": "https://www.bancarioscascavel.org.br/noticias/planos-de-saude-mantem-crescimento-com-sulamerica-e-bradesco-saude-na-dianteira",
+          "destaque": "76 mil beneficiários entraram no sistema em julho, encerrando o mês com 53,2 milhões de segurados",
+          "categoria": "Mercado",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Valor 1000: Novos riscos abrem espaço para expansão dos seguros",
+          "fonte": "Sonho Seguro",
+          "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+          "destaque": "Seguradoras e resseguradoras brasileiras identificam novos riscos como oportunidade de expansão de mercado",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "11/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "Sinc Summit leva Inteligência Artificial e novas oportunidades aos corretores da região de Araçatuba",
+          "fonte": "SEGS Portal Nacional",
+          "url": "https://www.segs.com.br/seguros/453903-sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba",
+          "destaque": "Sincor-SP promove edição do Sinc Summit focada em Inteligência Artificial para corretores de seguros",
+          "categoria": "Tecnologia",
+          "impacto": "médio",
+          "data_pub": "18/ago/2026",
+          "tambem_em": [
+            "ia",
+            "socios"
+          ]
+        },
+        {
+          "titulo": "Microsseguro busca reduzir o enorme gap de proteção e aproximar seguros de novos públicos",
+          "fonte": "SEGS Portal Nacional",
+          "url": "https://www.segs.com.br/seguros/454954-microsseguro-busca-reduzir-o-enorme-gap-de-protecao-e-aproximar-seguros-de-novos-publicos",
+          "destaque": "Microsseguros surgem como estratégia para reduzir o gap de proteção e incluir novos públicos no mercado de seguros",
+          "categoria": "Tendência",
+          "impacto": "alto",
+          "data_pub": "04/set/2026",
+          "tambem_em": []
+        },
+        {
+          "titulo": "BB Seguros reforça atuação em saúde e bem-estar com circuito de corridas",
+          "fonte": "SEGS Portal Nacional",
+          "url": "https://www.segs.com.br/seguros/455291-bb-seguros-reforca-atuacao-em-saude-e-bem-estar-com-circuito-de-corridas",
+          "destaque": "BB Seguros patrocina cinco provas de corrida em 2026 como estratégia de ativação e relacionamento em saúde e bem-estar",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "12/set/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        },
+        {
+          "titulo": "TOKIO MARINE realiza 5ª edição do Movimento Vida Saudável com programação exclusiva para convidados",
+          "fonte": "SEGS Portal Nacional",
+          "url": "https://www.segs.com.br/seguros/455139-tokio-marine-realiza-5-edicao-do-movimento-vida-saudavel-com-programacao-exclusiva-para-convidados",
+          "destaque": "Tokio Marine mobiliza cerca de 2.300 participantes em ações presenciais que incentivam hábitos saudáveis e fortalecem relacionamento com corretores",
+          "categoria": "Mercado",
+          "impacto": "médio",
+          "data_pub": "13/set/2026",
+          "tambem_em": [
+            "socios"
+          ]
+        }
+      ]
+    }
+  }
+}
